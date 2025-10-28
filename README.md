@@ -17,17 +17,17 @@ The project that uses AI to generate forms.
 
 ## Features
 
-- Authentication ✅
-- AI Form Generation ✅
-- Form Publish and Submissions ✅
-- View your forms ✅
-- Admin Panel ✅
-- View Results ✅
-- Settings & Upgrade Subscription ✅
-- Analytics ✅
-- Landing page ✅
+- Authentication 
+- AI Form Generation 
+- Form Publish and Submissions 
+- View your forms 
+- Admin Panel 
+- View Results 
+- Settings & Upgrade Subscription 
+- Analytics 
+- Landing page 
 
-## Getting Started
+
 
 First, run the development server:
 
